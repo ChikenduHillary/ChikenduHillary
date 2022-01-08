@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChikenduHillary
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chikenduhill@gmail.com 
 
 <!---
