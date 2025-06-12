@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Go
+- 🔭 &nbsp; I’m currently learning Rust
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Full-stack developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
