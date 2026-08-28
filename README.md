@@ -14,16 +14,16 @@
 
 </div>
 
-### 👋 About Me
+### <img src="https://api.iconify.design/lucide/hand.svg?color=%238b949e" width="20" height="20" /> About Me
 
-- 🛠️ Fullstack developer with **5+ years** of experience building high-quality, user-friendly web applications
-- 💼 Currently building at **TheraSwift** — previously Front-End Developer at MEGA einfalls
-- 🎓 Electronics Engineering, Federal University of Technology, Owerri
-- ⛓️ Deep in the React ecosystem, with a growing focus on **Solana** and blockchain-backed products
-- 🏆 Hackathon builder — Mental Paddi (HACK4FUTO), MarketXcap (Techstars)
-- 🌱 Currently exploring Rust and Go alongside my day-to-day TypeScript work
+- <img src="https://api.iconify.design/lucide/layers.svg?color=%238b949e" width="16" height="16" /> Fullstack developer with **5+ years** of experience building high-quality, user-friendly web applications
+- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%238b949e" width="16" height="16" /> Most recently Next.js / Redux Developer at **TheraSwift** (2023, 2025), previously Front-End Developer at MEGA einfalls
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="16" height="16" /> Electronics Engineering, Federal University of Technology, Owerri
+- <img src="https://api.iconify.design/lucide/link.svg?color=%238b949e" width="16" height="16" /> Deep in the React ecosystem, with a growing focus on **Solana** and blockchain-backed products
+- <img src="https://api.iconify.design/lucide/trophy.svg?color=%238b949e" width="16" height="16" /> Hackathon builder, Mental Paddi (HACK4FUTO), MarketXcap (Techstars)
+- <img src="https://api.iconify.design/lucide/sprout.svg?color=%238b949e" width="16" height="16" /> Currently exploring Rust and Go alongside my day-to-day TypeScript work
 
-### 🛠️ Tech Stack
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%238b949e" width="20" height="20" /> Tech Stack
 
 **Languages**
 
@@ -37,36 +37,41 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,postgres" alt="backend" />
 
-**Blockchain, Mobile & Tools**
+**Blockchain**
 
-<img src="https://skillicons.dev/icons?i=solidity,react,git,docker,kubernetes" alt="tools" />
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
-### 🚀 Featured Projects
+**Mobile**
 
-**[ClipSync](https://getclipsync.vercel.app/)** — Clipboard sync app that copies on one device and pastes on another instantly, built with Kotlin (Android), Tauri + Rust (desktop), and Supabase Realtime.
-🔗 [Live](https://getclipsync.vercel.app/)
+<img src="https://skillicons.dev/icons?i=reactnative,kotlin,swift" alt="mobile" />
 
-**[Suburbia Skateboards](https://suburbia-skate-board.vercel.app/)** — 3D skateboard customizer with real-time design and Solana NFT minting, built with Next.js, Three.js, and Metaplex.
-🔗 [Live](https://suburbia-skate-board.vercel.app/) · [Code](https://github.com/ChikenduHillary/suburbia-skate-board)
+**Tools**
 
-**[Repeat.ai](https://repeatt-ai.vercel.app/)** — AI video studio that takes raw footage from good to great using generative models for ideation and enhancement.
-🔗 [Live](https://repeatt-ai.vercel.app/) · [Code](https://github.com/ChikenduHillary/repeatt-ai)
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes" alt="tools" />
 
-**[AI Engineering](https://github.com/ChikenduHillary/ai-engineering)** — Hands-on notebooks exploring GPT models, HuggingFace Transformers, BERT, and XLNET alongside classic NLP work.
-🔗 [Code](https://github.com/ChikenduHillary/ai-engineering)
+### <img src="https://api.iconify.design/lucide/rocket.svg?color=%238b949e" width="20" height="20" /> Featured Projects
+
+**[ClipSync](https://getclipsync.vercel.app/)**, clipboard sync app that copies on one device and pastes on another instantly, built with Kotlin (Android), Tauri + Rust (desktop), and Supabase Realtime.
+<img src="https://api.iconify.design/lucide/external-link.svg?color=%238b949e" width="14" height="14" /> [Live](https://getclipsync.vercel.app/)
+
+**[Suburbia Skateboards](https://suburbia-skate-board.vercel.app/)**, 3D skateboard customizer with real-time design and Solana NFT minting, built with Next.js, Three.js, and Metaplex.
+<img src="https://api.iconify.design/lucide/external-link.svg?color=%238b949e" width="14" height="14" /> [Live](https://suburbia-skate-board.vercel.app/) · [Code](https://github.com/ChikenduHillary/suburbia-skate-board)
+
+**[Repeat.ai](https://repeatt-ai.vercel.app/)**, AI video studio that takes raw footage from good to great using generative models for ideation and enhancement.
+<img src="https://api.iconify.design/lucide/external-link.svg?color=%238b949e" width="14" height="14" /> [Live](https://repeatt-ai.vercel.app/) · [Code](https://github.com/ChikenduHillary/repeatt-ai)
+
+**[AI Engineering](https://github.com/ChikenduHillary/ai-engineering)**, hands-on notebooks exploring GPT models, HuggingFace Transformers, BERT, and XLNET alongside classic NLP work.
+<img src="https://api.iconify.design/lucide/external-link.svg?color=%238b949e" width="14" height="14" /> [Code](https://github.com/ChikenduHillary/ai-engineering)
 
 More on my **[portfolio →](https://devhills.vercel.app)**
 
-### 📊 GitHub Activity
+### <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%238b949e" width="20" height="20" /> GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChikenduHillary&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
 
-<div align="center">
-<br/>
+[![GitHub followers](https://img.shields.io/github/followers/ChikenduHillary?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/ChikenduHillary?tab=followers)
 
-![Profile views](https://komarev.com/ghpvc/?username=ChikenduHillary&color=blueviolet&style=flat)
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:262626&height=100&section=footer" width="100%" alt="footer" />
 
